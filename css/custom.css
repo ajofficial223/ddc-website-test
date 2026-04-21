@@ -1722,3 +1722,8 @@ img {
   font-style: normal;
   font-display: swap;
 }
+
+/* Hide Webflow Badge */
+.w-webflow-badge {
+  display: none !important;
+}
